@@ -1,173 +1,147 @@
-# Curso de Django y React.
+# Diplomado en IA Aplicada a la Educación
 
-`Elaborado por:` [Diego Saavedra][def]
+`Elaborado por:` [Nombre del Instructor]
 
-`Fecha de Elaboración:` Enero del 2024
+`Fecha de Elaboración:` Octubre del 2024
 
-> Estos recursos los puedes encontrar en el siguiente link para ir paso a paso con el curso [Curso de Django y React][def]
+> Puedes encontrar todos los recursos del diplomado en el siguiente enlace: [Diplomado en IA Aplicada a la Educación][link]
 
 ## Objetivo Principal
 
 <p style="text-align: justify">
-Capacitar a los participantes en el desarrollo web utilizando el framework Django (versión 4.2 LTS) y la biblioteca React, proporcionando las habilidades necesarias para construir aplicaciones web modernas y escalables.
+Capacitar a los participantes en el uso de la inteligencia artificial (IA) en el ámbito educativo, proporcionando las herramientas y conocimientos necesarios para mejorar los procesos de enseñanza y aprendizaje a través de la tecnología.
 </p>
 
 ## Objetivos Secundarios
 
-- Comprender los principios de la programación orientada a objetos (POO).
-- Dominar el uso de Git y Github para el control de versiones.
-- Familiarizarse con Docker para la creación y gestión de entornos de desarrollo.
-- Adquirir conocimientos sólidos sobre Django, desde la creación de modelos hasta la implementación de vistas y plantillas.
-- Dominar el desarrollo de API REST con Django Rest Framework.
-- Obtener nociones básicas de HTML5, CSS3, JavaScript, Node.js y NPM para aprender React.js.
-- Desarrollar habilidades en la creación de aplicaciones web interactivas utilizando React.
-- Aprender a consumir API de Django Rest Framework con React.
-- Aplicar todos los conocimientos adquiridos en la elaboración de un proyecto final: una tienda virtual.
+- Comprender los fundamentos de la inteligencia artificial y su aplicación en la educación.
+- Conocer y manejar herramientas y plataformas de IA que pueden ser integradas en entornos educativos.
+- Aprender a utilizar Python y bibliotecas populares de IA como TensorFlow y Scikit-learn.
+- Desarrollar soluciones educativas basadas en modelos de machine learning.
+- Analizar y procesar datos educativos para mejorar la personalización del aprendizaje.
+- Aplicar la IA para la creación de sistemas de tutoría inteligente y análisis predictivo.
+- Elaborar un proyecto final que integre IA en un entorno educativo real o simulado.
 
-## ¿Por qué seguir este curso?
+## ¿Por qué seguir este diplomado?
 
 <p style="text-align: justify">
-Este curso proporcionará a los participantes las habilidades prácticas necesarias para desarrollar aplicaciones web completas utilizando tecnologías modernas como Django y React. Estas habilidades son altamente demandadas en la industria de desarrollo web y permitirán a los participantes construir proyectos reales y avanzar en sus carreras profesionales.
+Este diplomado proporcionará a los participantes las habilidades prácticas necesarias para incorporar la IA en el contexto educativo, lo que permitirá mejorar la eficiencia y la personalización en el proceso de enseñanza-aprendizaje. Estas habilidades están en alta demanda, ya que la educación está experimentando una transformación digital con el uso de nuevas tecnologías.
 </p>
 
-## ¿Qué aprenderé durante este curso?
+## ¿Qué aprenderé durante este diplomado?
 
-Al final del curso, los participantes serán capaces de:
+Al final del diplomado, los participantes serán capaces de:
 
-- Desarrollar aplicaciones web utilizando Django y React.
-- Utilizar eficientemente Git y Github para el control de versiones.
-- Crear y gestionar entornos virtuales con virtualenv.
-- Comprender el uso y eficiencia de Docker en el desarrollo web.
-- Diseñar y trabajar con modelos de bases de datos en Django.
-- Implementar vistas y plantillas en sus proyectos web.
-- Desarrollar API REST con Django Rest Framework.
-- Integrar React.js en proyectos web.
-- Consumir API de Django Rest Framework con React.
-- Elaborar un proyecto final de una tienda virtual, aplicando todos los conceptos aprendidos.
+- Comprender los principios básicos y avanzados de la IA.
+- Desarrollar e implementar soluciones basadas en machine learning para la educación.
+- Utilizar herramientas de análisis de datos educativos para mejorar el rendimiento académico.
+- Aplicar la IA en la personalización del aprendizaje.
+- Desarrollar sistemas de recomendación y tutoría basados en IA.
+- Implementar un proyecto final que integre IA en un contexto educativo.
 
 ## Metodología
 
 <p style="text-align: justify">
-La metodología del curso se basará en el enfoque "aprender haciendo", con un énfasis práctico en la resolución de problemas y la creación de proyectos reales. Se proporcionarán ejercicios prácticos y proyectos que los participantes desarrollarán durante las sesiones.
+La metodología del diplomado se basará en un enfoque práctico y centrado en proyectos, con ejercicios aplicados a situaciones reales del ámbito educativo. Se fomentará el "aprender haciendo", con apoyo en plataformas de videoconferencia y un entorno de aprendizaje en línea para la interacción entre estudiantes e instructores.
 </p>
 
 ## Modalidad Virtual
 
 <p style="text-align: justify">
-El curso se llevará a cabo de manera virtual a través de plataformas de videoconferencia y un entorno de aprendizaje en línea.
+El diplomado será completamente virtual, utilizando plataformas de videoconferencia para clases en vivo, y un entorno virtual de aprendizaje para acceder a materiales, ejercicios y proyectos.
 </p>
 
 # Temas
 
-A continuación conoceremos el temario del Curso de Django y React
+A continuación, el temario del Diplomado en IA Aplicada a la Educación:
 
-## Python
-
-<p style="text-align: justify">
-En esta unidad comprenderemos los conceptos básicos de Python, la sintaxis y las estructuras de datos. Aprenderemos a utilizar las herramientas de desarrollo y a aplicar la programación orientada a objetos en Python.
-</p>
-
-- **Unidad 1:** Introducción a Python
-  - Configuración y Sintaxis básica
-  - Variables y Control de flujo
-  - Funciones y Parámetros
-
-- **Unidad 2:** Estructuras de Datos en Python
-  - Listas y Tuplas
-  - Diccionarios y Conjuntos
-
-- **Unidad 3:** Programación Orientada a Objetos (POO) en Python
-  - Conceptos Básicos
-  - Herencia y Polimorfismo
-
-- **Unidad 4:** Herramientas de Desarrollo
-  - Git y Github
-  
-## Django - Desarrollo Web Backend
-
-- **Unidad 5:** Introducción a Django
-  - Configuración y Estructura
-  - Modelos en Django
-
-- **Unidad 6:** Desarrollo Avanzado en Django
-  - Vistas y Plantillas en Django
-  - Django Rest Framework
-  - Pruebas Unitarias en Django
-  - Optimización y Rendimiento
-  - Creación de un CRUD de Tareas utilizando Django Rest Framework
-
-## Desarrollo Frontend con React y Tecnologías Web
+## Introducción a la Inteligencia Artificial y Python
 
 <p style="text-align: justify">
-En esta unidad aprenderemos los conceptos básicos de HTML5, CSS3 y JavaScript, así como el uso de Node.js y NPM para gestionar paquetes.
+En esta unidad se presentarán los conceptos básicos de la inteligencia artificial, así como los fundamentos de programación en Python, el lenguaje principal que se utilizará para desarrollar soluciones de IA.
 </p>
 
-- **Unidad 7:** HTML5, CSS3, JavaScript
-  - Estructura y Semántica de HTML5
-  - Estilos y Diseño con CSS3
-  - Conceptos Básicos de JavaScript
+- **Unidad 1:** Introducción a la Inteligencia Artificial
+  - Historia y Evolución de la IA
+  - Conceptos Fundamentales
 
-- **Unidad 8:** Node.js y NPM
-  - Instalación y Configuración de Node.js
-  - Uso de NPM para gestionar paquetes
+- **Unidad 2:** Introducción a Python
+  - Configuración del Entorno de Desarrollo
+  - Sintaxis y Control de Flujo
+  - Funciones y Estructuras de Datos
 
-- **Unidad 9:** React - Fundamentos
-  - Filosofía y Estructura de React
-  - Componentes y Props
-  - Estado y Ciclo de Vida
-  - Creación de Componentes en React
-
-- **Unidad 10:** React - Desarrollo Avanzado
-  - Manejo de Estado en React, Context API
-  - Navegación en React con React Router
-  - Aplicación en React que consume el API de Django
-
-
-## React - Desarrollo Avanzado, Prácticas Avanzadas y Proyecto Final
+## Machine Learning y Algoritmos Aplicados a la Educación
 
 <p style="text-align: justify">
-En esta unidad aprenderemos a manejar el estado en React, a utilizar la Context API y a implementar la navegación en React con React Router.
+En esta unidad aprenderemos los fundamentos del aprendizaje automático (machine learning), centrándonos en los algoritmos más utilizados en el contexto educativo.
 </p>
 
-- **Unidad 10:** React - Desarrollo Avanzado
-  - Manejo de Estado en React, Context API
-  - Navegación en React con React Router
-  - Aplicación en React que consume el API generado en la Unidad 6 Creación de un CRUD de Tareas Utilizando Django Rest Framework
+- **Unidad 3:** Fundamentos del Machine Learning
+  - Tipos de Machine Learning: Supervisado, No Supervisado y Reforzado
+  - Algoritmos Comunes: Regresión, Clasificación y Clustering
+  - Introducción a TensorFlow y Scikit-learn
 
-- **Unidad 11:** Prácticas Avanzadas de Programación
-  - Patrones de Diseño en Django y React
-  - Arquitectura de Software y Diseño Modular
+- **Unidad 4:** Aplicaciones de Machine Learning en la Educación
+  - Análisis de Rendimiento Académico
+  - Modelos Predictivos para Mejorar el Aprendizaje
+  - Sistemas de Tutoría Inteligente
+
+## Procesamiento de Datos Educativos
+
+<p style="text-align: justify">
+En esta unidad abordaremos las técnicas para recopilar, limpiar y analizar datos educativos con el fin de generar información valiosa para mejorar la toma de decisiones en la enseñanza.
+</p>
+
+- **Unidad 5:** Introducción al Procesamiento de Datos
+  - Fuentes de Datos en la Educación
+  - Limpieza y Preparación de Datos
+
+- **Unidad 6:** Análisis de Datos Educativos
+  - Visualización y Representación de Datos
+  - Interpretación de Resultados para la Personalización del Aprendizaje
+
+## Creación de Aplicaciones Educativas con IA
+
+<p style="text-align: justify">
+Esta unidad permitirá a los participantes aplicar los conocimientos adquiridos para desarrollar soluciones y aplicaciones educativas utilizando la IA.
+</p>
+
+- **Unidad 7:** Aplicación de IA en la Personalización del Aprendizaje
+  - Sistemas de Recomendación
+  - Aplicaciones de Tutoría Inteligente
+
+- **Unidad 8:** Herramientas y Plataformas para la Integración de IA en la Educación
+  - Plataformas y APIs Educativas con IA
 
 ## Proyecto Final
 
 <p style="text-align: justify">
-En el proyecto final desarrollaremos una Tienda Virtual utilizando Django y React, aplicando todos los conceptos aprendidos durante el curso.
+En el proyecto final, los participantes desarrollarán una solución educativa que aplique IA para resolver un problema o mejorar un proceso en el ámbito educativo.
 </p>
 
-  - Planificación y Diseño
-  - Desarrollo e Implementación
-  - Presentación y Evaluación
+- **Fase 1:** Planificación y Diseño del Proyecto
+- **Fase 2:** Desarrollo de la Solución Educativa
+- **Fase 3:** Implementación y Presentación
 
 # Público Objetivo
 
 <p style="text-align: justify">
-Este curso está diseñado para desarrolladores web principiantes o intermedios que deseen adquirir habilidades avanzadas en el desarrollo de aplicaciones web utilizando Django y React.
+Este diplomado está diseñado para docentes, estudiantes de educación, y profesionales interesados en aplicar la inteligencia artificial para mejorar los procesos de enseñanza-aprendizaje en entornos educativos.
 </p>
 
 # Recursos Hardware y Software
 
-- **Hardware:** PC o laptop con capacidad suficiente para ejecutar entornos de desarrollo Django y React.
-  - **CPU:** i5 o i7 superior a 10ma Generación
-  - **RAM:** Mínimo 8 GB de RAM, de preferencia 16 GB, 32 GB o 64 GB.
+- **Hardware:** PC o laptop con capacidad suficiente para ejecutar entornos de desarrollo de IA.
+  - **CPU:** Procesador Intel i5 o equivalente.
+  - **RAM:** Mínimo 8 GB, preferiblemente 16 GB o más.
 
-- **Software:** Python, Node.js, NPM, editor de código (por ejemplo, VSCode), navegador web, Git, Docker.
+- **Software:** Python, TensorFlow, Scikit-learn, Jupyter Notebook, editor de código (VSCode o PyCharm).
 
 # Conocimientos Previos
 
-> Se requieren conocimientos básicos de programación en Python y comprensión general de HTML y CSS.
+> Es recomendable tener conocimientos básicos de programación en Python y una comprensión general del análisis de datos.
 
-
-# Dedicación para Actividades Prácticas Fuera del Curso
+# Dedicación para Actividades Prácticas Fuera del Diplomado
 
 > [!TIP]
-> Se recomienda dedicar al menos 10 horas por semana para prácticas y actividades fuera del curso, con el fin de reforzar los conocimientos adquiridos y avanzar en el desarrollo de proyectos personales.
+> Se recomienda dedicar al menos 8-10 horas por semana para realizar prácticas, ejercicios y avanzar en el proyecto final, con el fin de reforzar los conceptos adquiridos y asegurar el éxito en el diplomado.
