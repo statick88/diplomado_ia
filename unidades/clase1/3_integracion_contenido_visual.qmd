@@ -1,7 +1,7 @@
 :::{.justify}
-# Tema 3: Integrar Contenido Visual para Mejorar el Aprendizaje
+# Tema 3: Leonardo.ai
 
-## Herramienta: Leonardo.ai
+![Leonardo.ai](../images/leonardo.png){with=80px}
 
 **Leonardo.ai** es una herramienta de generación de imágenes que utiliza inteligencia artificial para crear imágenes de alta calidad a partir de descripciones textuales. Aquí se describen los pasos para utilizar esta herramienta en la creación de contenido visual atractivo.
 

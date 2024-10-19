@@ -1,6 +1,8 @@
 :::[.justify]
 # Tema 2: Herramienta 2: Canva
 
+![Canva](../images/canva-circle-logo.png){with=80px}
+
 **Canva** es una herramienta de diseño gráfico muy popular que permite crear presentaciones visualmente atractivas. Aquí tienes los pasos para utilizarla:
 
 1. Crear una Cuenta

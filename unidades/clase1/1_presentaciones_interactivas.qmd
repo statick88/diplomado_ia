@@ -1,9 +1,9 @@
-{.justify}
+:::{.justify}
 ## Tema 1: Diseñar Presentaciones Interactivas y Atractivas
 
-### Herramientas y Pasos
-
 **Herramienta 1:** Tome.app
+
+![Tome.app](../images/tome-logo.png){with=40px}
 
 **Tome.app** es una herramienta para crear presentaciones narrativas de manera fácil y rápida. A continuación se describen los pasos para usarla:
 
