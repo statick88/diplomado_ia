@@ -1,0 +1,77 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diplomado en IA Aplicada a la Educación",
+    "section": "",
+    "text": "Bienvenido",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenido</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#de-qué-trata-este-diplomado",
+    "href": "index.html#de-qué-trata-este-diplomado",
+    "title": "Diplomado en IA Aplicada a la Educación",
+    "section": "¿De qué trata este diplomado?",
+    "text": "¿De qué trata este diplomado?\nEste diplomado me llevará desde los conceptos básicos de la inteligencia artificial hasta la aplicación práctica de herramientas y técnicas en el ámbito educativo.\nA través de una combinación de teoría y ejercicios prácticos, me sumergiré en los principios esenciales de la IA y avanzaré hacia la creación de proyectos que integren la inteligencia artificial en contextos educativos reales.\nDesde la exploración de tecnologías emergentes hasta la implementación de soluciones innovadoras, este diplomado me proporcionará una comprensión sólida y experiencia práctica en el uso de IA en la educación.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenido</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#para-quién-es-este-diplomado",
+    "href": "index.html#para-quién-es-este-diplomado",
+    "title": "Diplomado en IA Aplicada a la Educación",
+    "section": "¿Para quién es este diplomado?",
+    "text": "¿Para quién es este diplomado?\nEste diplomado está diseñado para educadores, estudiantes y profesionales que deseen comprender y aplicar la inteligencia artificial en el ámbito educativo.\nYa sea que seas un docente buscando mejorar tus métodos de enseñanza, un estudiante curioso o un profesional que busca incorporar IA en su trabajo, este diplomado es para ti. Todos son bienvenidos a participar y explorar el emocionante potencial de la IA en la educación.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenido</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-contribuir",
+    "href": "index.html#cómo-contribuir",
+    "title": "Diplomado en IA Aplicada a la Educación",
+    "section": "¿Cómo contribuir?",
+    "text": "¿Cómo contribuir?\nValoramos tu contribución a este diplomado. Si encuentras algún error, deseas sugerir mejoras o agregar contenido adicional, me encantaría saber de ti.\nPuedes contribuir a través del repositorio en línea, donde puedes compartir tus comentarios y sugerencias.\nJuntos, podemos mejorar continuamente este recurso educativo para beneficiar a la comunidad de estudiantes y entusiastas de la inteligencia artificial.\nEste ebook ha sido creado con el objetivo de proporcionar acceso gratuito y universal al conocimiento.\nEstará disponible en línea para cualquier persona, sin importar su ubicación o circunstancias, para acceder y aprender a su propio ritmo.\nPuedes descargarlo en formato PDF, EPUB o verlo en línea en cualquier momento y lugar.\n¡Esperamos que disfrutes este emocionante viaje de aprendizaje y descubrimiento en el mundo de la inteligencia artificial aplicada a la educación!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Bienvenido</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de mi",
+    "section": "",
+    "text": "¡Hola! Soy Diego Saavedra, un experto en desarrollo avanzado de software e investigación. Mi amplia experiencia abarca diversas tecnologías, incluyendo Python (Django, Flask, Fast API) y JavaScript (Express, Next, React, Nestjs), así como también tengo conocimientos sólidos en bases de datos, arquitecturas de software y liderazgo ágil.\nMi pasión por la innovación, el desarrollo y la educación me ha llevado a destacarme como un profesional versátil e invaluable. Estoy constantemente listo para enfrentar desafíos técnicos y liderar proyectos de vanguardia.\nMi formación académica incluye el ser estudiante de Doctorado centrado en la inteligencia artificial, estoy enfocando mi investigación en la detección de TDA+H y Asperger mediante Visión Artificial a traves de algoritmos de Inteligencia Artificial. Además, poseo una Maestría en Ciencias de la Computación, con un enfoque en el Deep Learning (Convolutional Neural Network) y la Atención.\nCon esta sólida base académica y experiencia profesional, estoy preparado para aportar soluciones innovadoras y liderar equipos hacia el éxito en cualquier proyecto tecnológico que se me presente.\nAdemás, tengo experiencia en el desarrollo móvil utilizando Flutter y en la implementación de soluciones backend utilizando servicios Backend as a Service (BaaS) como Firebase y Supabase.\nEn el ámbito de la educación, he sido docente de programación en institutos y universidades, actualmente soy parte del Departamento de Ciencias de la Computación en la Universidad de las Fuerzas Armadas ESPE, donde he impartido asignaturas de desarrollo de Software Web con tecnologías como JavaScript, Java y C# asi como sus respectivos frameworks.\nMi experiencia en el desarrollo de software y la investigación me ha permitido adquirir habilidades de liderazgo, trabajo en equipo y comunicación efectiva. Estoy seguro de que mi experiencia y habilidades serán de gran valor para cualquier proyecto tecnológico que se me presente.\nEn este curso aprenderás a desarrollar aplicaciones web con Python y Django, una de las tecnologías más populares y poderosas para el desarrollo de aplicaciones web. A lo largo del curso, aprenderás a crear aplicaciones web desde cero, utilizando Django y Python, y a implementar funcionalidades avanzadas como integración con APIs externas y mucho más.\nTambien veremos tecnologías como Git, Github, Docker, Python, Django, Django Rest Framework, Html5, Css3, JavaScript, Nodejs, Npm y React.\n\n\n¡Estoy emocionado de compartir contigo mi conocimiento y experiencia en el desarrollo de aplicaciones web con Python y Django!"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licencia",
+    "section": "",
+    "text": "Uso Permitido\nPuedes utilizar el contenido de este curso con fines educativos y personales. Puedes modificar los ejemplos y el código proporcionado para tus propias necesidades de aprendizaje."
+  },
+  {
+    "objectID": "license.html#restricciones",
+    "href": "license.html#restricciones",
+    "title": "Licencia",
+    "section": "Restricciones",
+    "text": "Restricciones\nNo tienes permitido redistribuir, vender o utilizar el contenido de este curso para fines comerciales sin el permiso explícito de [Nombre de la Compañía]. Además, no tienes permitido copiar o duplicar el contenido del curso y presentarlo como propio."
+  },
+  {
+    "objectID": "license.html#atribución",
+    "href": "license.html#atribución",
+    "title": "Licencia",
+    "section": "Atribución",
+    "text": "Atribución\nSi compartes los ejemplos, los fragmentos de código o el contenido de este curso en línea, te pedimos que proporciones la atribución adecuada a [Nombre de la Compañía]."
+  },
+  {
+    "objectID": "license.html#cambios-en-la-licencia",
+    "href": "license.html#cambios-en-la-licencia",
+    "title": "Licencia",
+    "section": "Cambios en la Licencia",
+    "text": "Cambios en la Licencia\n[Nombre de la Compañía] se reserva el derecho de modificar los términos de esta licencia en cualquier momento. Cualquier cambio se reflejará en esta página.\nGracias por respetar nuestros derechos de autor y por tu comprensión."
+  }
+]
