@@ -1,6 +1,6 @@
 # Diplomado en IA Aplicada a la Educación
 
-`Elaborado por:` [Nombre del Instructor]
+`Elaborado por:` [Lcdo. Diego Saavedra, Mgtr.]
 
 `Fecha de Elaboración:` Octubre del 2024
 
