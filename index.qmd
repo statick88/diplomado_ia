@@ -1,0 +1,42 @@
+# Bienvenido
+
+::: {.text-justify}
+::: justify
+
+::: {.text-center}
+¡Bienvenido al Diplomado en IA Aplicada a la Educación! 
+:::
+
+En este diplomado, exploraremos cómo la inteligencia artificial puede transformar la educación y mejorar el proceso de enseñanza-aprendizaje.
+
+## ¿De qué trata este diplomado?
+
+Este diplomado me llevará desde los conceptos básicos de la inteligencia artificial hasta la aplicación práctica de herramientas y técnicas en el ámbito educativo.
+
+A través de una combinación de teoría y ejercicios prácticos, me sumergiré en los principios esenciales de la IA y avanzaré hacia la creación de proyectos que integren la inteligencia artificial en contextos educativos reales.
+
+Desde la exploración de tecnologías emergentes hasta la implementación de soluciones innovadoras, este diplomado me proporcionará una comprensión sólida y experiencia práctica en el uso de IA en la educación.
+
+## ¿Para quién es este diplomado?
+
+Este diplomado está diseñado para educadores, estudiantes y profesionales que deseen comprender y aplicar la inteligencia artificial en el ámbito educativo.
+
+Ya sea que seas un docente buscando mejorar tus métodos de enseñanza, un estudiante curioso o un profesional que busca incorporar IA en su trabajo, este diplomado es para ti. Todos son bienvenidos a participar y explorar el emocionante potencial de la IA en la educación.
+
+## ¿Cómo contribuir?
+
+Valoramos tu contribución a este diplomado. Si encuentras algún error, deseas sugerir mejoras o agregar contenido adicional, me encantaría saber de ti. 
+
+Puedes contribuir a través del repositorio en línea, donde puedes compartir tus comentarios y sugerencias.
+
+Juntos, podemos mejorar continuamente este recurso educativo para beneficiar a la comunidad de estudiantes y entusiastas de la inteligencia artificial.
+
+Este ebook ha sido creado con el objetivo de proporcionar acceso gratuito y universal al conocimiento.
+
+Estará disponible en línea para cualquier persona, sin importar su ubicación o circunstancias, para acceder y aprender a su propio ritmo.
+
+Puedes descargarlo en formato PDF, EPUB o verlo en línea en cualquier momento y lugar.
+
+¡Esperamos que disfrutes este emocionante viaje de aprendizaje y descubrimiento en el mundo de la inteligencia artificial aplicada a la educación!
+:::
+:::

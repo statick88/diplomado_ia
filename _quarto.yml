@@ -1,0 +1,90 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Diplomado en IA Aplicada a la Educación"
+  author: "Diego Saavedra"
+  output-file: "diplomado_ia_aplicada_educacion"  
+  date: today
+  date-format: medium
+  favicon: logo.png
+  description: "Diplomado en IA Aplicada a la Educación"
+  keyword: IA, Educación
+  url: https://github.com/statick88/diplomado_ia
+  page-navigation: true
+  sidebar: 
+    logo: logo.png
+    search: true
+    collapse-level: 1
+
+  repo-subdir: book
+  sharing: [twitter, linkedin]
+  downloads: [pdf, epub]
+  image: logo.png
+
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+        
+  chapters:
+    - index.qmd
+    - part: "Clase 1: Creación de Videos Educativos y Presentaciones Profesionales"
+      chapters: 
+        - unidades/clase1/1_presentaciones_interactivas.qmd
+        - unidades/clase1/2_videos_educativos.qmd
+        - unidades/clase1/3_integracion_contenido_visual.qmd
+
+    - part: "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada"
+      chapters: 
+        - unidades/clase2/1_narraciones_efectivas.qmd
+        - unidades/clase2/2_audios_educativos.qmd
+        - unidades/clase2/3_evaluaciones_automatizadas.qmd
+
+    - part: "Clase 3: Generación de Contenido Inteligente y Diseño Visual Atractivo"
+      chapters: 
+        - unidades/clase3/1_contenido_interactivo.qmd
+        - unidades/clase3/2_recursos_visuales.qmd
+        - unidades/clase3/3_integracion_herramientas_IA.qmd
+
+bibliography: references.bib
+biblio-style: "apalike"
+
+format:
+  html:
+    number-sections: false
+    theme: 
+      dark:  solar #slate, darkly, solar, superhero, vapor
+      # light: cosmo
+    number-depth: 4
+    link-external-icon: true
+    link-external-newwindow: true
+    css: css/styles.css
+
+  pdf:
+    documentclass: scrreprt
+    classoption: ["onepage", "openany"]
+    papersize: a4
+    toc: true
+    margin-top: 35mm
+    margin-left: 30mm
+    margin-bottom: 30mm
+    margin-right: 30mm
+    titlepage-geometry: 
+      - top=35mm
+      - bottom=30mm
+      - right=30mm
+      - left=30mm
+  epub: 
+    belongs-to-collection: "Diplomado en IA Aplicada a la Educación"
+    group-position: 0
+    creator: "Lcdo. Diego Saavedra Mgtr."
+    rights: "© Statick | 2024"
+    fig-responsive: true
+    number-sections: true
+
+filters:
+  - naquiz
