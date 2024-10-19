@@ -1,1 +1,59 @@
-# Videos Educativos
+:::[.justify]
+# Tema 2: Herramienta 2: Canva
+
+**Canva** es una herramienta de diseño gráfico muy popular que permite crear presentaciones visualmente atractivas. Aquí tienes los pasos para utilizarla:
+
+1. Crear una Cuenta
+
+    1.1. Visitar el Sitio Web: Accede a [Canva.com](www.canva.com).
+
+    1.2. Registrarse: Haz clic en "Sign Up" para crear una cuenta. Puedes registrarte utilizando tu correo electrónico, cuenta de Google o Facebook.
+
+2. Crear una Nueva Presentación
+
+    2.1. Iniciar Sesión: Inicia sesión en tu cuenta de Canva.
+
+    2.2. Seleccionar "Presentaciones": En la barra de búsqueda, escribe "Presentaciones" y selecciona la opción que aparece.
+
+3. Elegir una Plantilla
+
+    3.1. Explorar Plantillas: Navega por las plantillas de presentación disponibles. Puedes filtrarlas por temas o estilos.
+
+    3.1. Seleccionar una Plantilla: Haz clic en la plantilla que más te guste para abrirla.
+
+4. Diseñar la Presentación
+
+    4.1. Agregar Diapositivas:
+
+      -   Haz clic en el botón "+" para agregar nuevas diapositivas.
+
+      -   Puedes seleccionar entre diferentes diseños predefinidos para cada nueva diapositiva.
+
+    4.2. Incorporar Contenido:
+
+    -   Texto: Haz clic en el cuadro de texto para editar. Agrega títulos y contenido utilizando diferentes tamaños y estilos de fuente.
+
+   -   Imágenes: Usa la opción "Uploads" para cargar imágenes desde tu computadora o selecciona "Photos" para buscar imágenes libres de derechos directamente desde Canva.
+
+   -   Gráficos y Elementos: Haz clic en "Elements" para añadir gráficos, iconos, líneas y formas a tu presentación.
+
+    3.3. Personalizar el Diseño:
+
+    -   Ajusta los colores de fondo y los estilos de texto en la barra lateral.
+    
+    -   Usa la opción de "Animate" para añadir transiciones y animaciones a las diapositivas.
+
+5. Revisar y Presentar
+
+    5.1.    Previsualizar la Presentación: Haz clic en "Present" para ver tu presentación en modo de exhibición.
+
+    5.2.    Guardar: Canva guarda automáticamente tu trabajo. Puedes exportar la presentación como PDF o presentación de PowerPoint usando la opción "Download".
+
+    5.3.    Compartir: Utiliza el botón "Share" para enviar un enlace a tus compañeros o para colaborar en tiempo real.
+
+# Actividad Práctica
+
+## Diseñar una Diapositiva en Canva:
+
+-   Cada participante deberá diseñar una diapositiva en Canva, integrando imágenes y texto de acuerdo con los principios de diseño discutidos.\
+:::

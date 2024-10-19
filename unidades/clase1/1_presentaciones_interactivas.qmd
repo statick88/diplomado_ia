@@ -1,1 +1,57 @@
-# Presentaciones Interactivas
+{.justify}
+## Tema 1: Diseñar Presentaciones Interactivas y Atractivas
+
+### Herramientas y Pasos
+
+**Herramienta 1:** Tome.app
+
+**Tome.app** es una herramienta para crear presentaciones narrativas de manera fácil y rápida. A continuación se describen los pasos para usarla:
+
+1. Crear una Cuenta
+    1.1. Visitar el Sitio Web: Accede a Tome.app.
+    1.2. Registrarse: Haz clic en "Sign Up" para crear una cuenta. Puedes registrarte usando tu correo electrónico o mediante una cuenta de Google.
+2. Crear una Nueva Presentación
+
+2.1. Iniciar Sesión: Inicia sesión en tu cuenta de Tome.app.
+2.2. Crear un Nuevo Documento: Haz clic en "New" o "Create" para iniciar una nueva presentación.
+2.3. Seleccionar una Plantilla: Explora las plantillas disponibles y selecciona una que se ajuste a tu tema. Las plantillas narrativas suelen estar diseñadas para guiar la historia.
+
+3. Diseñar la Presentación
+
+3.1. Agregar Diapositivas:
+
+-   Haz clic en "Add Slide" para incluir nuevas diapositivas.
+-   Selecciona el tipo de diapositiva (texto, imagen, gráfico, etc.).
+
+3.2. Incorporar Contenido:
+
+-   Texto: Haz doble clic en el área de texto para editar. Escribe el título y el contenido de cada diapositiva.
+
+-   Imágenes: Arrastra y suelta imágenes desde tu computadora o usa la opción de "Insert Image" para cargar imágenes desde la web o tu galería.
+
+-   Videos: Agrega videos de plataformas como YouTube pegando el enlace en el campo correspondiente.
+
+3.3. Personalizar el Diseño:
+
+- Ajusta el diseño de cada diapositiva utilizando las opciones de personalización (fuentes, colores, tamaños).
+
+-   Utiliza la función de "Style" para aplicar un estilo coherente a toda la presentación.
+
+3.4. Agregar Interactividad:
+
+-   Usa elementos interactivos como enlaces o botones. Selecciona el texto o imagen que quieras convertir en un enlace y usa la opción "Add Link" para vincularlo a otra diapositiva o una página externa.
+
+4. Revisar y Presentar
+
+4.1.    Previsualizar la Presentación: Haz clic en "Present" para ver cómo se verá tu presentación en modo de exhibición.
+
+4.2. Guardar: Asegúrate de guardar tu trabajo automáticamente. Tome.app guarda los cambios en tiempo real.
+
+4.3. Compartir: Si deseas compartir la presentación, utiliza la opción de "Share" para enviar el enlace a tus compañeros o presentar en línea.
+
+# Actividad Práctica
+
+## Crear una Presentación en Tome.app:
+
+-   Cada participante deberá crear una presentación de 5 diapositivas sobre un tema relacionado con su área de enseñanza, utilizando Tome.app.
+:::

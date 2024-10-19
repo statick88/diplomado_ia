@@ -1,1 +1,78 @@
-# Integracion de Contenido Visual
+:::{.justify}
+# Tema 3: Integrar Contenido Visual para Mejorar el Aprendizaje
+
+## Herramienta: Leonardo.ai
+
+**Leonardo.ai** es una herramienta de generación de imágenes que utiliza inteligencia artificial para crear imágenes de alta calidad a partir de descripciones textuales. Aquí se describen los pasos para utilizar esta herramienta en la creación de contenido visual atractivo.
+
+## Pasos para Usar Leonardo.ai
+
+1. Crear una Cuenta
+
+1.1.    Visitar el Sitio Web: Accede a Leonardo.ai.
+
+1.2.    Registrarse: Haz clic en "Sign Up" para crear una cuenta. Puedes registrarte utilizando tu correo electrónico o redes sociales.
+
+2. Iniciar Sesión
+
+2.1.    Iniciar Sesión: Una vez que tengas tu cuenta, inicia sesión con tus credenciales.
+
+3. Crear Imágenes
+
+3.1.    Acceder a la Interfaz Principal:
+
+-   Una vez dentro, verás la interfaz principal donde puedes generar imágenes.
+
+3.2. Especificar la Descripción:
+
+-   En el campo de texto, escribe una descripción detallada de la imagen que deseas crear. Cuanto más específica y descriptiva sea la entrada, más relevante será la imagen generada. Por ejemplo:
+“Una clase de matemáticas donde los estudiantes están trabajando en grupos con computadoras portátiles”.
+
+3.3. Seleccionar Estilo y Parámetros:
+
+-   Leonardo.ai puede ofrecer diferentes estilos de arte y parámetros de configuración. Elige el estilo que mejor se adapte a tus necesidades (realista, cartoon, minimalista, etc.).
+
+3.4. Generar la Imagen:
+
+-   Haz clic en el botón “Generate” para crear la imagen. Espera unos segundos mientras la IA procesa tu solicitud.
+
+3.5. Revisar y Ajustar:
+
+-   Una vez generada, revisa la imagen. Si no estás satisfecho con el resultado, puedes ajustar la descripción o los parámetros y volver a generar la imagen.
+
+4. Descargar y Usar las Imágenes
+
+4.1. Descargar la Imagen:
+
+-   Cuando estés satisfecho con la imagen, haz clic en la opción de descarga (generalmente un ícono de descarga) para guardar la imagen en tu computadora.
+
+4.2. Integrar la Imagen en la Presentación:
+
+-   Abre la presentación que has creado anteriormente en Tome.app o Canva.
+
+4.3.    Inserta la imagen descargada en las diapositivas relevantes, asegurándote de que el contenido visual complemente el texto y la información presentada.
+
+# Ejemplo de Uso en el Aula
+
+## Actividad Práctica
+
+### Generar Imágenes Relacionadas con el Contenido:
+
+-   Pide a cada participante que elija un tema de su materia y genere al menos tres imágenes usando Leonardo.ai que se relacionen con ese contenido.
+
+-   Por ejemplo, si están enseñando sobre la biodiversidad, pueden generar imágenes de diferentes ecosistemas o especies.
+
+### Integrar Imágenes en Presentaciones:
+
+-   Los participantes deben integrar estas imágenes en sus presentaciones existentes en Tome.app o Canva.
+
+-   Deben pensar en cómo cada imagen puede mejorar la comprensión del tema y cómo puede involucrar a los estudiantes visualmente.
+
+### Presentación de Resultados:
+
+-   Cada participante presentará brevemente su imagen generada y explicará cómo planean integrarla en su enseñanza.
+
+# Conclusión
+
+Al final de este tema, los participantes habrán aprendido a utilizar Leonardo.ai para generar contenido visual que mejore su práctica educativa. La integración de imágenes de alta calidad no solo hará que sus presentaciones sean más atractivas, sino que también facilitará un aprendizaje más efectivo y participativo.
+:::
