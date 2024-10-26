@@ -40,17 +40,6 @@
     ]
   },
   {
-    "objectID": "unidades/clase1/1_presentaciones_interactivas.html",
-    "href": "unidades/clase1/1_presentaciones_interactivas.html",
-    "title": "Tema 1: Diseñar Presentaciones Interactivas y Atractivas",
-    "section": "",
-    "text": "Actividad Práctica",
-    "crumbs": [
-      "Clase 1: Creación de Videos Educativos y Presentaciones Profesionales",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tema 1: Diseñar Presentaciones Interactivas y Atractivas</span>"
-    ]
-  },
-  {
     "objectID": "unidades/clase1/1_presentaciones_interactivas.html#crear-una-presentación-en-tome.app",
     "href": "unidades/clase1/1_presentaciones_interactivas.html#crear-una-presentación-en-tome.app",
     "title": "Tema 1: Diseñar Presentaciones Interactivas y Atractivas",
@@ -70,17 +59,6 @@
     "crumbs": [
       "Clase 1: Creación de Videos Educativos y Presentaciones Profesionales",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Tema 2: Herramienta 2: Canva</span>"
-    ]
-  },
-  {
-    "objectID": "unidades/clase1/3_integracion_contenido_visual.html#herramienta-leonardo.ai",
-    "href": "unidades/clase1/3_integracion_contenido_visual.html#herramienta-leonardo.ai",
-    "title": "Tema 3: Integrar Contenido Visual para Mejorar el Aprendizaje",
-    "section": "Herramienta: Leonardo.ai",
-    "text": "Herramienta: Leonardo.ai\nLeonardo.ai es una herramienta de generación de imágenes que utiliza inteligencia artificial para crear imágenes de alta calidad a partir de descripciones textuales. Aquí se describen los pasos para utilizar esta herramienta en la creación de contenido visual atractivo.",
-    "crumbs": [
-      "Clase 1: Creación de Videos Educativos y Presentaciones Profesionales",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Tema 3: Integrar Contenido Visual para Mejorar el Aprendizaje</span>"
     ]
   },
   {
@@ -139,5 +117,93 @@
     "title": "Licencia",
     "section": "Cambios en la Licencia",
     "text": "Cambios en la Licencia\n[Nombre de la Compañía] se reserva el derecho de modificar los términos de esta licencia en cualquier momento. Cualquier cambio se reflejará en esta página.\nGracias por respetar nuestros derechos de autor y por tu comprensión."
+  },
+  {
+    "objectID": "unidades/clase2/1_narraciones_efectivas.html",
+    "href": "unidades/clase2/1_narraciones_efectivas.html",
+    "title": "Generar Narraciones Efectivas y Audios Educativos",
+    "section": "",
+    "text": "Pasos para Generar Narraciones Efectivas con ChatGPT",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generar Narraciones Efectivas y Audios Educativos</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/1_narraciones_efectivas.html#visitar-la-plataforma",
+    "href": "unidades/clase2/1_narraciones_efectivas.html#visitar-la-plataforma",
+    "title": "Generar Narraciones Efectivas y Audios Educativos",
+    "section": "Visitar la Plataforma:",
+    "text": "Visitar la Plataforma:\nAccede a ChatGPT de OpenAI o cualquier herramienta que use el modelo ChatGPT, como algunas integraciones en plataformas educativas.\nIniciar Sesión o Crear una Cuenta:\nSi no tienes una cuenta, puedes registrarte usando tu correo electrónico, cuenta de Google, o iniciar sesión si ya tienes una cuenta.\n\nCrear una Narración Educativa\n\n\nElegir el Tema:\nSelecciona el tema educativo para el cual deseas crear una narración. Puede ser un tema que planees enseñar, como historia, ciencias, matemáticas, o cualquier otra área.\nPara este ejemplo vamos a crear una narrativa acerca de el tema “Introducción a la Programación”\n\n\nProveer Instrucciones Claras:\nEscribe una instrucción clara en ChatGPT, explicando el tipo de narración que necesitas.\nPor ejemplo:\n“Genera una narración educativa sobre el tema: Introducción a la Programación para Principiantes. Incluye una explicación sobre qué es la programación, por qué es importante, y algunos ejemplos de lenguajes de programación populares.”\n\n\nAñadir Detalles Específicos:\nPuedes incluir el tono que deseas, la longitud aproximada, y cualquier otro detalle relevante.\nEjemplo:\n“Quiero que la narración tenga un tono amigable y accesible para estudiantes de secundaria. La longitud debe ser de aproximadamente 500 palabras.”\n\n\nIntroducción a la Programación para Principiantes:”\n\nRevisar el Contenido Generado\n\n\n\nEvaluar el Texto Generado:\nChatGPT generará una narración en cuestión de segundos. Revísala para asegurarte de que el contenido es preciso y está alineado con tus expectativas.\n\n\nSolicitar Cambios:\nSi es necesario, puedes pedirle a ChatGPT que haga ajustes o reescriba ciertas secciones.\nPor ejemplo:\n“Reescribe la sección sobre los ejemplos de lenguajes de programación para hacerla más clara y concisa.”\n\n\nAjuste de Niveles de Complejidad:\nSi la narración parece muy compleja o muy simple, puedes pedirle a ChatGPT que la ajuste al nivel educativo de tu audiencia:\n“Reduce la complejidad de la explicación sobre la programación para que sea más accesible a estudiantes de secundaria.”\nO bien:\n“Añade más detalles técnicos sobre la programación para que sea más relevante para estudiantes de informática.”\n\nPersonalización y Adaptación de la Narración\n\n\n\nAgregar Ejemplos o Anécdotas:\nPuedes pedirle a ChatGPT que incluya ejemplos o anécdotas para hacer la narración más interactiva.\nEjemplo:\n“Incluye un ejemplo de cómo se usa la programación en la creación de videojuegos para ilustrar su importancia y aplicaciones prácticas.”\n\n\nDividir el Contenido en Secciones:\nPara facilitar la comprensión de los estudiantes, puedes solicitar que ChatGPT divida el contenido en secciones o párrafos cortos.\nEjemplo:\n“Separa la explicación sobre qué es la programación en un párrafo aparte para que sea más fácil de entender.”\n\n\nAjustar el Tono y Estilo:\nSi estás creando una narración para un video o podcast, es posible que desees ajustar el tono para hacerlo más conversacional o dinámico.\nEjemplo:\n“Modifica el tono de la narración para que sea más amigable y accesible a estudiantes de secundaria.”\n\nExportar el Texto para su Uso en Narraciones o Videos\n\n\n\nCopiar y Guardar el Contenido:\nUna vez que tengas la narración lista, copia el texto generado y guárdalo en tu computadora. Puedes usar un procesador de texto o herramientas como Google Docs para organizar tu contenido.\n\n\nPreparar el Texto para Narración:\nSi planeas usar este contenido en un video o audio educativo, puedes adaptar el texto para que suene más natural cuando se lea en voz alta. A veces, pequeñas modificaciones en el lenguaje hablado pueden mejorar la fluidez.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generar Narraciones Efectivas y Audios Educativos</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/1_narraciones_efectivas.html#opciones-de-herramientas-para-generar-audios",
+    "href": "unidades/clase2/1_narraciones_efectivas.html#opciones-de-herramientas-para-generar-audios",
+    "title": "Generar Narraciones Efectivas y Audios Educativos",
+    "section": "Opciones de Herramientas para Generar Audios",
+    "text": "Opciones de Herramientas para Generar Audios\n\nMurf.ai o Speechify:\nHerramientas como Murf.ai o Speechify pueden transformar tu texto en una narración en voz alta. Solo debes cargar el texto y seleccionar el tipo de voz que prefieras.\nEjemplo:\n“Introducción a la Programación para Principiantes”\n\n\nText-to-Speech:\nTambién puedes usar el servicio de texto a voz de Microsoft Azure, que permite seleccionar acentos y estilos de narración para una experiencia más realista.\n\n\nGrabar el Audio Manualmente:\nAlternativamente, puedes grabar tu propia voz o pedirle a un colega que lo haga. Usa un software de grabación como Audacity para grabar la narración y mejorar la calidad del audio.\nEjemplo de Narración Generada con ChatGPT\nInstrucción: “Genera una narración educativa sobre la Introducción a la Programación para Principiantes. Incluye una explicación sobre qué es la programación, por qué es importante, y algunos ejemplos de lenguajes de programación populares.”\n\n\nNarración Generada por ChatGPT:\nLa programación es el proceso de crear instrucciones que una computadora puede seguir para realizar una tarea específica. Es un lenguaje universal que permite a los humanos comunicarse con las máquinas y crear software, aplicaciones y sitios web. La programación es esencial en la era digital actual, ya que impulsa la innovación tecnológica y la automatización de tareas. Algunos ejemplos de lenguajes de programación populares son Python, Java y JavaScript.\n\n\nConversión a Audio:\nUsando una herramienta de texto a voz, puedes convertir este texto en un archivo de audio realista. Asegúrate de seleccionar un tono y velocidad de habla adecuados para tu audiencia.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generar Narraciones Efectivas y Audios Educativos</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html",
+    "title": "Evaluaciones Automatizadas",
+    "section": "",
+    "text": "1. Introducción\nLas evaluaciones automatizadas son una herramienta poderosa para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#importancia-de-las-evaluaciones-automatizadas",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#importancia-de-las-evaluaciones-automatizadas",
+    "title": "Evaluaciones Automatizadas",
+    "section": "2. Importancia de las Evaluaciones Automatizadas",
+    "text": "2. Importancia de las Evaluaciones Automatizadas\nLas evaluaciones automatizadas son fundamentales para garantizar la calidad y precisión del contenido generado por modelos de lenguaje. Algunas de las razones por las que las evaluaciones automatizadas son importantes incluyen:\n\nVerificación de la Calidad: Las evaluaciones automatizadas permiten verificar la calidad del texto generado, identificando posibles errores, incoherencias o problemas de relevancia.\nAseguramiento de la Coherencia: Las evaluaciones automatizadas ayudan a garantizar la coherencia del contenido generado, asegurando que siga un hilo lógico y coherente.\nCumplimiento de Estándares: Las evaluaciones automatizadas permiten verificar si el texto generado cumple con los estándares y requisitos específicos establecidos.\nOptimización del Proceso: Las evaluaciones automatizadas ayudan a optimizar el proceso de revisión y calificación del contenido generado, ahorrando tiempo y recursos.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#tipos-de-evaluaciones-automatizadas",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#tipos-de-evaluaciones-automatizadas",
+    "title": "Evaluaciones Automatizadas",
+    "section": "3. Tipos de Evaluaciones Automatizadas",
+    "text": "3. Tipos de Evaluaciones Automatizadas\nExisten varios tipos de evaluaciones automatizadas que se pueden utilizar para revisar y calificar el contenido generado por modelos de lenguaje. Algunos de los tipos más comunes incluyen:\n\nEvaluación de Calidad: Esta evaluación se centra en verificar la calidad del texto generado, identificando posibles errores gramaticales, ortográficos o de estilo.\nEvaluación de Coherencia: Esta evaluación se enfoca en garantizar la coherencia del contenido generado, asegurando que siga un hilo lógico y coherente.\nEvaluación de Relevancia: Esta evaluación verifica si el texto generado es relevante y cumple con los requisitos específicos establecidos.\nEvaluación de Originalidad: Esta evaluación se centra en verificar si el texto generado es original y no contiene contenido duplicado o plagiado.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#herramientas-para-evaluaciones-automatizadas",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#herramientas-para-evaluaciones-automatizadas",
+    "title": "Evaluaciones Automatizadas",
+    "section": "4. Herramientas para Evaluaciones Automatizadas",
+    "text": "4. Herramientas para Evaluaciones Automatizadas\nExisten varias herramientas y plataformas que se pueden utilizar para realizar evaluaciones automatizadas del contenido generado por modelos de lenguaje.\nAlgunas de las herramientas más populares gratuitas incluyen:\n\nGrammarly: Una herramienta de corrección gramatical y ortográfica que puede ayudar a identificar errores en el texto generado.\nHemingway Editor: Una herramienta que evalúa la legibilidad y claridad del texto, proporcionando sugerencias para mejorar la redacción.\nQuetext: Una herramienta de detección de plagio que puede ayudar a verificar la originalidad del contenido generado.\n\nAdemás, existen plataformas especializadas en la evaluación de contenido generado por modelos de lenguaje, como EvalAI y CrowdFlower, que ofrecen una amplia gama de herramientas y funcionalidades para realizar evaluaciones automatizadas.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#conclusiones",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#conclusiones",
+    "title": "Evaluaciones Automatizadas",
+    "section": "5. Conclusiones",
+    "text": "5. Conclusiones\nLas evaluaciones automatizadas son una herramienta esencial para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos. Al utilizar herramientas y plataformas especializadas, es posible optimizar el proceso de evaluación y garantizar la calidad del contenido generado.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
   }
 ]
