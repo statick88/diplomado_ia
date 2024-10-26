@@ -1,3 +1,4 @@
+:::{.justify}
 # Generar Narraciones Efectivas y Audios Educativos
 
 **Herramienta:** ChatGPT 
@@ -104,60 +105,21 @@ Una vez que tengas la narración lista, copia el texto generado y guárdalo en t
 
 Si planeas usar este contenido en un video o audio educativo, puedes adaptar el texto para que suene más natural cuando se lea en voz alta. A veces, pequeñas modificaciones en el lenguaje hablado pueden mejorar la fluidez.
 
-# Crear Audios Realistas con la Narración Generada
-
-Una vez que tengas el guion listo, puedes usar herramientas de IA o software de narración para convertir ese texto en un archivo de audio realista.
-
-## Opciones de Herramientas para Generar Audios
-
-### Murf.ai o Speechify:
-
-Herramientas como **Murf.ai** o Speechify pueden transformar tu texto en una narración en voz alta. Solo debes cargar el texto y seleccionar el tipo de voz que prefieras.
-
-Ejemplo: 
-
-"Introducción a la Programación para Principiantes"
-
-### Text-to-Speech:
-
-También puedes usar el servicio de texto a voz de Microsoft Azure, que permite seleccionar acentos y estilos de narración para una experiencia más realista.
-
-### Grabar el Audio Manualmente:
-
-Alternativamente, puedes grabar tu propia voz o pedirle a un colega que lo haga. Usa un software de grabación como Audacity para grabar la narración y mejorar la calidad del audio.
-
-Ejemplo de Narración Generada con ChatGPT
-
-**Instrucción:** "Genera una narración educativa sobre la Introducción a la Programación para Principiantes. Incluye una explicación sobre qué es la programación, por qué es importante, y algunos ejemplos de lenguajes de programación populares."
-
-### Narración Generada por ChatGPT:
-
-La programación es el proceso de crear instrucciones que una computadora puede seguir para realizar una tarea específica. Es un lenguaje universal que permite a los humanos comunicarse con las máquinas y crear software, aplicaciones y sitios web. La programación es esencial en la era digital actual, ya que impulsa la innovación tecnológica y la automatización de tareas. Algunos ejemplos de lenguajes de programación populares son Python, Java y JavaScript.
-
-### Conversión a Audio:
-
-Usando una herramienta de texto a voz, puedes convertir este texto en un archivo de audio realista. Asegúrate de seleccionar un tono y velocidad de habla adecuados para tu audiencia.
-
 # Actividad Práctica
 
-Generar Narraciones para Distintos Temas:
+**Objetivo:** Crear una narración educativa sobre un tema de tu elección utilizando ChatGPT y convertirla en un audio realista.
 
-Los participantes deben elegir un tema de su área de enseñanza y utilizar ChatGPT para generar una narración educativa sobre ese tema.
+**Instrucciones:**
 
-Por ejemplo, 
+1. Genera una narración educativa sobre un tema que te interese o que planees enseñar.
 
-Un profesor de biología podría generar una narración sobre el ciclo del agua, o un profesor de literatura podría generar una explicación sobre una obra literaria.
+2. Utiliza ChatGPT para crear la narración, siguiendo los pasos mencionados anteriormente.
 
-### Conversión a Audio:
+3. Revisa el contenido generado y realiza los ajustes necesarios para que se adapte a tu audiencia.
 
-Después de crear la narración, los docentes deben convertir el texto en un archivo de audio utilizando alguna de las herramientas mencionadas.
+4. Copiar el texto generado a una herramienta como Microsoft Word o Google Docs para su edición.
 
-Deben pensar en cómo estos audios pueden ser integrados en sus lecciones, ya sea como parte de un video o como un recurso para los estudiantes.
+# Conclusiones
 
-### Presentación de Resultados:
-
-Cada participante presentará su narración generada y el audio correspondiente, explicando cómo planean integrarlo en su enseñanza.
-
-# Conclusión
-
-Al final de este tema, los participantes habrán aprendido a usar ChatGPT para generar narraciones educativas efectivas y a convertir esas narraciones en audios realistas, lo que les permitirá crear recursos educativos más dinámicos y accesibles para sus estudiantes.
+Las narraciones educativas generadas con ChatGPT pueden ser una herramienta poderosa para crear contenido educativo dinámico y atractivo. Al seguir los pasos mencionados anteriormente, puedes crear narraciones efectivas y convertirlas en audios realistas para enriquecer tus lecciones y recursos educativos. ¡Explora las posibilidades de ChatGPT y lleva tus narraciones educativas al siguiente nivel!
+:::

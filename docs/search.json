@@ -84,41 +84,6 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Acerca de mi",
-    "section": "",
-    "text": "¡Hola! Soy Diego Saavedra, un experto en desarrollo avanzado de software e investigación. Mi amplia experiencia abarca diversas tecnologías, incluyendo Python (Django, Flask, Fast API) y JavaScript (Express, Next, React, Nestjs), así como también tengo conocimientos sólidos en bases de datos, arquitecturas de software y liderazgo ágil.\nMi pasión por la innovación, el desarrollo y la educación me ha llevado a destacarme como un profesional versátil e invaluable. Estoy constantemente listo para enfrentar desafíos técnicos y liderar proyectos de vanguardia.\nMi formación académica incluye el ser estudiante de Doctorado centrado en la inteligencia artificial, estoy enfocando mi investigación en la detección de TDA+H y Asperger mediante Visión Artificial a traves de algoritmos de Inteligencia Artificial. Además, poseo una Maestría en Ciencias de la Computación, con un enfoque en el Deep Learning (Convolutional Neural Network) y la Atención.\nCon esta sólida base académica y experiencia profesional, estoy preparado para aportar soluciones innovadoras y liderar equipos hacia el éxito en cualquier proyecto tecnológico que se me presente.\nAdemás, tengo experiencia en el desarrollo móvil utilizando Flutter y en la implementación de soluciones backend utilizando servicios Backend as a Service (BaaS) como Firebase y Supabase.\nEn el ámbito de la educación, he sido docente de programación en institutos y universidades, actualmente soy parte del Departamento de Ciencias de la Computación en la Universidad de las Fuerzas Armadas ESPE, donde he impartido asignaturas de desarrollo de Software Web con tecnologías como JavaScript, Java y C# asi como sus respectivos frameworks.\nMi experiencia en el desarrollo de software y la investigación me ha permitido adquirir habilidades de liderazgo, trabajo en equipo y comunicación efectiva. Estoy seguro de que mi experiencia y habilidades serán de gran valor para cualquier proyecto tecnológico que se me presente.\nEn este curso aprenderás a desarrollar aplicaciones web con Python y Django, una de las tecnologías más populares y poderosas para el desarrollo de aplicaciones web. A lo largo del curso, aprenderás a crear aplicaciones web desde cero, utilizando Django y Python, y a implementar funcionalidades avanzadas como integración con APIs externas y mucho más.\nTambien veremos tecnologías como Git, Github, Docker, Python, Django, Django Rest Framework, Html5, Css3, JavaScript, Nodejs, Npm y React.\n\n\n¡Estoy emocionado de compartir contigo mi conocimiento y experiencia en el desarrollo de aplicaciones web con Python y Django!"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "Licencia",
-    "section": "",
-    "text": "Uso Permitido\nPuedes utilizar el contenido de este curso con fines educativos y personales. Puedes modificar los ejemplos y el código proporcionado para tus propias necesidades de aprendizaje."
-  },
-  {
-    "objectID": "license.html#restricciones",
-    "href": "license.html#restricciones",
-    "title": "Licencia",
-    "section": "Restricciones",
-    "text": "Restricciones\nNo tienes permitido redistribuir, vender o utilizar el contenido de este curso para fines comerciales sin el permiso explícito de [Nombre de la Compañía]. Además, no tienes permitido copiar o duplicar el contenido del curso y presentarlo como propio."
-  },
-  {
-    "objectID": "license.html#atribución",
-    "href": "license.html#atribución",
-    "title": "Licencia",
-    "section": "Atribución",
-    "text": "Atribución\nSi compartes los ejemplos, los fragmentos de código o el contenido de este curso en línea, te pedimos que proporciones la atribución adecuada a [Nombre de la Compañía]."
-  },
-  {
-    "objectID": "license.html#cambios-en-la-licencia",
-    "href": "license.html#cambios-en-la-licencia",
-    "title": "Licencia",
-    "section": "Cambios en la Licencia",
-    "text": "Cambios en la Licencia\n[Nombre de la Compañía] se reserva el derecho de modificar los términos de esta licencia en cualquier momento. Cualquier cambio se reflejará en esta página.\nGracias por respetar nuestros derechos de autor y por tu comprensión."
-  },
-  {
     "objectID": "unidades/clase2/1_narraciones_efectivas.html",
     "href": "unidades/clase2/1_narraciones_efectivas.html",
     "title": "Generar Narraciones Efectivas y Audios Educativos",
@@ -201,6 +166,74 @@
     "title": "Evaluaciones Automatizadas",
     "section": "5. Conclusiones",
     "text": "5. Conclusiones\nLas evaluaciones automatizadas son una herramienta esencial para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos. Al utilizar herramientas y plataformas especializadas, es posible optimizar el proceso de evaluación y garantizar la calidad del contenido generado.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de mi",
+    "section": "",
+    "text": "¡Hola! Soy Diego Saavedra, un experto en desarrollo avanzado de software e investigación. Mi amplia experiencia abarca diversas tecnologías, incluyendo Python (Django, Flask, Fast API) y JavaScript (Express, Next, React, Nestjs), así como también tengo conocimientos sólidos en bases de datos, arquitecturas de software y liderazgo ágil.\nMi pasión por la innovación, el desarrollo y la educación me ha llevado a destacarme como un profesional versátil e invaluable. Estoy constantemente listo para enfrentar desafíos técnicos y liderar proyectos de vanguardia.\nMi formación académica incluye el ser estudiante de Doctorado centrado en la inteligencia artificial, estoy enfocando mi investigación en la detección de TDA+H y Asperger mediante Visión Artificial a traves de algoritmos de Inteligencia Artificial. Además, poseo una Maestría en Ciencias de la Computación, con un enfoque en el Deep Learning (Convolutional Neural Network) y la Atención.\nCon esta sólida base académica y experiencia profesional, estoy preparado para aportar soluciones innovadoras y liderar equipos hacia el éxito en cualquier proyecto tecnológico que se me presente.\nAdemás, tengo experiencia en el desarrollo móvil utilizando Flutter y en la implementación de soluciones backend utilizando servicios Backend as a Service (BaaS) como Firebase y Supabase.\nEn el ámbito de la educación, he sido docente de programación en institutos y universidades, actualmente soy parte del Departamento de Ciencias de la Computación en la Universidad de las Fuerzas Armadas ESPE, donde he impartido asignaturas de desarrollo de Software Web con tecnologías como JavaScript, Java y C# asi como sus respectivos frameworks.\nMi experiencia en el desarrollo de software y la investigación me ha permitido adquirir habilidades de liderazgo, trabajo en equipo y comunicación efectiva. Estoy seguro de que mi experiencia y habilidades serán de gran valor para cualquier proyecto tecnológico que se me presente.\nEn este curso aprenderás a desarrollar aplicaciones web con Python y Django, una de las tecnologías más populares y poderosas para el desarrollo de aplicaciones web. A lo largo del curso, aprenderás a crear aplicaciones web desde cero, utilizando Django y Python, y a implementar funcionalidades avanzadas como integración con APIs externas y mucho más.\nTambien veremos tecnologías como Git, Github, Docker, Python, Django, Django Rest Framework, Html5, Css3, JavaScript, Nodejs, Npm y React.\n\n\n¡Estoy emocionado de compartir contigo mi conocimiento y experiencia en el desarrollo de aplicaciones web con Python y Django!"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licencia",
+    "section": "",
+    "text": "Uso Permitido\nPuedes utilizar el contenido de este curso con fines educativos y personales. Puedes modificar los ejemplos y el código proporcionado para tus propias necesidades de aprendizaje."
+  },
+  {
+    "objectID": "license.html#restricciones",
+    "href": "license.html#restricciones",
+    "title": "Licencia",
+    "section": "Restricciones",
+    "text": "Restricciones\nNo tienes permitido redistribuir, vender o utilizar el contenido de este curso para fines comerciales sin el permiso explícito de [Nombre de la Compañía]. Además, no tienes permitido copiar o duplicar el contenido del curso y presentarlo como propio."
+  },
+  {
+    "objectID": "license.html#atribución",
+    "href": "license.html#atribución",
+    "title": "Licencia",
+    "section": "Atribución",
+    "text": "Atribución\nSi compartes los ejemplos, los fragmentos de código o el contenido de este curso en línea, te pedimos que proporciones la atribución adecuada a [Nombre de la Compañía]."
+  },
+  {
+    "objectID": "license.html#cambios-en-la-licencia",
+    "href": "license.html#cambios-en-la-licencia",
+    "title": "Licencia",
+    "section": "Cambios en la Licencia",
+    "text": "Cambios en la Licencia\n[Nombre de la Compañía] se reserva el derecho de modificar los términos de esta licencia en cualquier momento. Cualquier cambio se reflejará en esta página.\nGracias por respetar nuestros derechos de autor y por tu comprensión."
+  },
+  {
+    "objectID": "unidades/clase2/2_audios_educativos.html",
+    "href": "unidades/clase2/2_audios_educativos.html",
+    "title": "Audios Educativos",
+    "section": "",
+    "text": "Crear Audios Realistas con la Narración Generada\nUna vez que tengas el guion listo, puedes usar herramientas de IA o software de narración para convertir ese texto en un archivo de audio realista.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Audios Educativos</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/2_audios_educativos.html#opciones-de-herramientas-para-generar-audios",
+    "href": "unidades/clase2/2_audios_educativos.html#opciones-de-herramientas-para-generar-audios",
+    "title": "Audios Educativos",
+    "section": "Opciones de Herramientas para Generar Audios",
+    "text": "Opciones de Herramientas para Generar Audios\n\nMurf.ai o Speechify:\nHerramientas como Murf.ai o Speechify pueden transformar tu texto en una narración en voz alta. Solo debes cargar el texto y seleccionar el tipo de voz que prefieras.\nEjemplo:\n“Introducción a la Programación para Principiantes”\n\n\nText-to-Speech:\nTambién puedes usar el servicio de texto a voz de Microsoft Azure, que permite seleccionar acentos y estilos de narración para una experiencia más realista.\n\n\nGrabar el Audio Manualmente:\nAlternativamente, puedes grabar tu propia voz o pedirle a un colega que lo haga. Usa un software de grabación como Audacity para grabar la narración y mejorar la calidad del audio.\nEjemplo de Narración Generada con ChatGPT\nInstrucción: “Genera una narración educativa sobre la Introducción a la Programación para Principiantes. Incluye una explicación sobre qué es la programación, por qué es importante, y algunos ejemplos de lenguajes de programación populares.”\n\n\nNarración Generada por ChatGPT:\nLa programación es el proceso de crear instrucciones que una computadora puede seguir para realizar una tarea específica. Es un lenguaje universal que permite a los humanos comunicarse con las máquinas y crear software, aplicaciones y sitios web. La programación es esencial en la era digital actual, ya que impulsa la innovación tecnológica y la automatización de tareas. Algunos ejemplos de lenguajes de programación populares son Python, Java y JavaScript.\n\n\nConversión a Audio:\nUsando una herramienta de texto a voz, puedes convertir este texto en un archivo de audio realista. Asegúrate de seleccionar un tono y velocidad de habla adecuados para tu audiencia.",
+    "crumbs": [
+      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Audios Educativos</span>"
+    ]
+  },
+  {
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#introducción",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#introducción",
+    "title": "Evaluaciones Automatizadas",
+    "section": "1. Introducción",
+    "text": "1. Introducción\nLas evaluaciones automatizadas son una herramienta poderosa para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos.",
     "crumbs": [
       "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Evaluaciones Automatizadas</span>"

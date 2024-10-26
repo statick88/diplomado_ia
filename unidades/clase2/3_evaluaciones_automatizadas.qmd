@@ -1,3 +1,4 @@
+:::{.justify}
 # Evaluaciones Automatizadas
 
 ## 1. Introducción
@@ -62,4 +63,5 @@ Además, existen plataformas especializadas en la evaluación de contenido gener
 
 Las evaluaciones automatizadas son una herramienta esencial para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos. Al utilizar herramientas y plataformas especializadas, es posible optimizar el proceso de evaluación y garantizar la calidad del contenido generado.
 
+:::
 
