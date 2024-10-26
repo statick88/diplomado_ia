@@ -84,17 +84,6 @@
     ]
   },
   {
-    "objectID": "unidades/clase2/1_narraciones_efectivas.html",
-    "href": "unidades/clase2/1_narraciones_efectivas.html",
-    "title": "Generar Narraciones Efectivas y Audios Educativos",
-    "section": "",
-    "text": "Pasos para Generar Narraciones Efectivas con ChatGPT",
-    "crumbs": [
-      "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generar Narraciones Efectivas y Audios Educativos</span>"
-    ]
-  },
-  {
     "objectID": "unidades/clase2/1_narraciones_efectivas.html#visitar-la-plataforma",
     "href": "unidades/clase2/1_narraciones_efectivas.html#visitar-la-plataforma",
     "title": "Generar Narraciones Efectivas y Audios Educativos",
@@ -106,21 +95,21 @@
     ]
   },
   {
-    "objectID": "unidades/clase2/1_narraciones_efectivas.html#opciones-de-herramientas-para-generar-audios",
-    "href": "unidades/clase2/1_narraciones_efectivas.html#opciones-de-herramientas-para-generar-audios",
-    "title": "Generar Narraciones Efectivas y Audios Educativos",
+    "objectID": "unidades/clase2/2_audios_educativos.html#opciones-de-herramientas-para-generar-audios",
+    "href": "unidades/clase2/2_audios_educativos.html#opciones-de-herramientas-para-generar-audios",
+    "title": "Audios Educativos",
     "section": "Opciones de Herramientas para Generar Audios",
     "text": "Opciones de Herramientas para Generar Audios\n\nMurf.ai o Speechify:\nHerramientas como Murf.ai o Speechify pueden transformar tu texto en una narración en voz alta. Solo debes cargar el texto y seleccionar el tipo de voz que prefieras.\nEjemplo:\n“Introducción a la Programación para Principiantes”\n\n\nText-to-Speech:\nTambién puedes usar el servicio de texto a voz de Microsoft Azure, que permite seleccionar acentos y estilos de narración para una experiencia más realista.\n\n\nGrabar el Audio Manualmente:\nAlternativamente, puedes grabar tu propia voz o pedirle a un colega que lo haga. Usa un software de grabación como Audacity para grabar la narración y mejorar la calidad del audio.\nEjemplo de Narración Generada con ChatGPT\nInstrucción: “Genera una narración educativa sobre la Introducción a la Programación para Principiantes. Incluye una explicación sobre qué es la programación, por qué es importante, y algunos ejemplos de lenguajes de programación populares.”\n\n\nNarración Generada por ChatGPT:\nLa programación es el proceso de crear instrucciones que una computadora puede seguir para realizar una tarea específica. Es un lenguaje universal que permite a los humanos comunicarse con las máquinas y crear software, aplicaciones y sitios web. La programación es esencial en la era digital actual, ya que impulsa la innovación tecnológica y la automatización de tareas. Algunos ejemplos de lenguajes de programación populares son Python, Java y JavaScript.\n\n\nConversión a Audio:\nUsando una herramienta de texto a voz, puedes convertir este texto en un archivo de audio realista. Asegúrate de seleccionar un tono y velocidad de habla adecuados para tu audiencia.",
     "crumbs": [
       "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generar Narraciones Efectivas y Audios Educativos</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Audios Educativos</span>"
     ]
   },
   {
-    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html",
-    "href": "unidades/clase2/3_evaluaciones_automatizadas.html",
+    "objectID": "unidades/clase2/3_evaluaciones_automatizadas.html#introducción",
+    "href": "unidades/clase2/3_evaluaciones_automatizadas.html#introducción",
     "title": "Evaluaciones Automatizadas",
-    "section": "",
+    "section": "1. Introducción",
     "text": "1. Introducción\nLas evaluaciones automatizadas son una herramienta poderosa para revisar y calificar el contenido generado por modelos de lenguaje como ChatGPT. Estas evaluaciones permiten verificar la calidad, coherencia y relevancia del texto generado, así como garantizar que cumpla con los estándares y requisitos específicos.",
     "crumbs": [
       "Clase 2: Narraciones, Audios Realistas y Evaluación Automatizada",
